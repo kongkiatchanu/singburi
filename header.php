@@ -1,8 +1,11 @@
 <div class="header">
     <div class="logo col-12">
+        <img class="local mx-1" src="assets/image/singburi_logo.jpg?v=<?=date('YmdHis')?>" alt="logo">
+        <!--
         <img class="local mx-1" src="assets/image/kpr.jpg?v=<?=date('YmdHis')?>" alt="logo">
         <img class="local mx-1" src="assets/image/sksw.png?v=<?=date('YmdHis')?>" alt="logo">
         <img class="local rounded-circle mx-1" src="assets/image/<?= $icon; ?>?v=<?=date('YmdHis')?>" alt="logo">
+        -->
     </div>
     <div class="line d-none d-lg-block"></div>
     <div class="menu col-12 d-none d-lg-flex">
