@@ -1,6 +1,6 @@
 <div class="header">
     <div class="logo col-12">
-        <img class="local mx-1" src="assets/image/singburi_logo.jpg?v=<?=date('YmdHis')?>" alt="logo">
+        <img class="local mx-1" src="assets/image/signburi_logo?v=<?=date('YmdHis')?>" alt="logo">
         <!--
         <img class="local mx-1" src="assets/image/kpr.jpg?v=<?=date('YmdHis')?>" alt="logo">
         <img class="local mx-1" src="assets/image/sksw.png?v=<?=date('YmdHis')?>" alt="logo">
